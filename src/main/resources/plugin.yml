@@ -1,0 +1,4 @@
+name: ThreeMinuteSurvival
+version: '${version}'
+main: com.ldhdev.threeminutesurvival.ThreeMinuteSurvival
+api-version: '1.20'
